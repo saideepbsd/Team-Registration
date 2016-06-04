@@ -1,0 +1,22 @@
+@misc{Clearall,
+  title = {CLEAR ALL FIELDS},
+  howpublished = {http://stackoverflow.com/questions/5740708/android-clearing-all-edittext-fields-with-clear-button},
+},
+
+@misc{Twice,
+  title = {PRESS BACK BUTTON TWICE TO EXIT},
+  howpublished = {http://stackoverflow.com/questions/8430805/android-clicking-twice-the-back-button-to-exit-activity},
+},
+
+@misc{regex,
+  title = {REGEX FOR VALID NAMES},
+  howpublished = {http://stackoverflow.com/questions/27126455/java-regex-to-validate-full-name-allow-only-spaces-letters-commas-dots-in-java},
+},
+
+@misc{Volley,
+  title = {ANDROID VOLLEY POST TUTORIAL},
+  howpublished = {https://www.simplifiedcoding.net/android-volley-post-request-tutorial/},
+},
+
+
+

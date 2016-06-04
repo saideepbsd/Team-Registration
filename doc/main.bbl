@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Volley}
+Android volley post tutorial.
+\newblock
+  https://www.simplifiedcoding.net/android-volley-post-request-tutorial/.
+
+\bibitem{Clearall}
+Clear all fields.
+\newblock
+  http://stackoverflow.com/questions/5740708/android-clearing-all-edittext-fields-with-clear-button.
+
+\bibitem{Twice}
+Press back button twice to exit.
+\newblock
+  http://stackoverflow.com/questions/8430805/android-clicking-twice-the-back-button-to-exit-activity.
+
+\bibitem{regex}
+Regex for valid names.
+\newblock
+  http://stackoverflow.com/questions/27126455/java-regex-to-validate-full-name-allow-only-spaces-letters-commas-dots-in-java.
+
+\end{thebibliography}
